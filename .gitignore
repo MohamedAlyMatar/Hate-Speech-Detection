@@ -2,3 +2,7 @@ data/
 
 *.pkl
 
+*.npy
+
+*.h5
+*.hdf5
