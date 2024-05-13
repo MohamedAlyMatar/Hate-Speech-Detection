@@ -6,3 +6,5 @@ data/
 
 *.h5
 *.hdf5
+
+*.keras
